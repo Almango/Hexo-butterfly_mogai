@@ -385,7 +385,7 @@ algolia_search:
 
 # Local search
 local_search:
-  enable: true
+  enable: false
   # Preload the search data when the page loads.
   preload: false
   # Show top n results per article, show all results by setting to -1
@@ -976,7 +976,7 @@ CDN:
 footer_beautify:
   enable:
     timer: false # 计时器开关
-    bdage: true # 徽标开关
+    bdage: false # 徽标开关
   priority: 10 #过滤器优先权
   enable_page: all # 应用页面
   exclude: #屏蔽页面
