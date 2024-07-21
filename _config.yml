@@ -17,7 +17,8 @@ menu:
      归档: /archives/ || fas fa-archive
      标签: /tags/ || fas fa-tags
      分类: /categories/ || fas fa-folder-open
-   白嫖: /tags/ || fa-solid fa-star
+   工具||fa-solid fa-star:
+     Linux命令手册: https://www.linuxcool.com/ || fa-brands fa-linux
    日志||fa-solid fa-file:
      更新日志: /2024/07/18/Butterfly主题魔改日志/ || fa-solid fa-arrows-rotate
      随心日记: /2024/07/19/随心日记/ || fa-solid fa-pen-nib
